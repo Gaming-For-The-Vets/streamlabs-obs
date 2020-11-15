@@ -1,5 +1,8 @@
 # Streamlabs OBS
 
+Tested Build on Catalina 10.15.6
+cMP [Geekbench Scores](https://browser.geekbench.com/v5/cpu/3839320)
+
 [![Build Status](https://dev.azure.com/streamlabs/Streamlabs%20OBS/_apis/build/status/stream-labs.streamlabs-obs?branchName=staging)](https://dev.azure.com/streamlabs/Streamlabs%20OBS/_build/latest?definitionId=1&branchName=staging)
 
 Simple, powerful, and efficient live streaming software built on Electron and OBS.
